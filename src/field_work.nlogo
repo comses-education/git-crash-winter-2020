@@ -3,6 +3,7 @@ breed [dig-houses dig-house]
 
 
 globals [
+  knowledge
 
 dignity
 
@@ -231,6 +232,7 @@ artifact-distribution
 ## WHAT IS IT?
 
 I AM CHANGING THIS PART HERE BECAUSE IT DOES NOT AFFECT THE CODEEEEEEEEEEEEEEEE!!
+Same!
 
 ## HOW IT WORKS
 
