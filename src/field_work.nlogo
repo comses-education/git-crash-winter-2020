@@ -3,8 +3,13 @@ breed [dig-houses dig-house]
 
 
 globals [
+  knowledge
+
 
  age
+
+dignity
+
 
 ]
 
@@ -212,7 +217,7 @@ INPUTBOX
 145
 177
 number-of-field-seasons
-50.0
+75.0
 1
 0
 Number
@@ -231,6 +236,7 @@ artifact-distribution
 ## WHAT IS IT?
 
 I AM CHANGING THIS PART HERE BECAUSE IT DOES NOT AFFECT THE CODEEEEEEEEEEEEEEEE!!
+Same!
 
 ## HOW IT WORKS
 
@@ -590,7 +596,11 @@ false
 Polygon -7500403 true true 270 75 225 30 30 225 75 270
 Polygon -7500403 true true 30 75 75 30 270 225 225 270
 @#$#@#$#@
+<<<<<<< HEAD
 NetLogo 6.1.0
+=======
+NetLogo 6.1.1
+>>>>>>> 5ae38e8b2aa9323ebcbfcd3d26e1ee5c24bd806a
 @#$#@#$#@
 @#$#@#$#@
 @#$#@#$#@
