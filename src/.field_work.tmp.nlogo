@@ -4,7 +4,7 @@ breed [dig-houses dig-house]
 
 globals [
 
- age
+
 
 ]
 
