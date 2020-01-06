@@ -3,6 +3,8 @@ breed [dig-houses dig-house]
 
 
 globals [
+  dignity
+  benevolence
 
 
 ]
