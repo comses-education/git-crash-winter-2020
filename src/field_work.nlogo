@@ -3,7 +3,9 @@ breed [dig-houses dig-house]
 
 
 globals [
+  knowledge
 
+dignity
 
 ]
 
@@ -211,7 +213,7 @@ INPUTBOX
 145
 177
 number-of-field-seasons
-50.0
+75.0
 1
 0
 Number
@@ -229,8 +231,10 @@ artifact-distribution
 @#$#@#$#@
 ## WHAT IS IT?
 
-I AM CHANGING THIS PART HERE BECAUSE IT DOES NOT AFFECT THE CODEEEEEEEEEEEEEEEE!!
+I AM CHANGING THIS PART HERE BECAUSE IT DOES NOT AFFECT THE CODEEEEEEEEEEEEEEEE!
 SO AM I DSR
+Same!
+
 
 ## HOW IT WORKS
 
