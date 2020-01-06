@@ -3,6 +3,7 @@ breed [dig-houses dig-house]
 
 
 globals [
+  knowledge
 
 
 ]
