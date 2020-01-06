@@ -5,7 +5,7 @@ breed [dig-houses dig-house]
 globals [
   dignity
   benevolence
-
+  knowledge
 
 ]
 
@@ -213,7 +213,7 @@ INPUTBOX
 145
 177
 number-of-field-seasons
-50.0
+0.0
 1
 0
 Number
@@ -232,6 +232,7 @@ artifact-distribution
 ## WHAT IS IT?
 
 I AM CHANGING THIS PART HERE BECAUSE IT DOES NOT AFFECT THE CODEEEEEEEEEEEEEEEE!!
+Same!
 
 ## HOW IT WORKS
 
