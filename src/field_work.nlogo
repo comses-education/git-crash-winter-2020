@@ -598,9 +598,7 @@ false
 Polygon -7500403 true true 270 75 225 30 30 225 75 270
 Polygon -7500403 true true 30 75 75 30 270 225 225 270
 @#$#@#$#@
-<<<<<<< HEAD
-NetLogo 6.1.0
-=======
+
 NetLogo 6.1.1
 >>>>>>> 5ae38e8b2aa9323ebcbfcd3d26e1ee5c24bd806a
 @#$#@#$#@
