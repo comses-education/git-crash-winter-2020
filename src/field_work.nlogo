@@ -3,14 +3,10 @@ breed [dig-houses dig-house]
 
 
 globals [
+  dignity
+  benevolence
   knowledge
-
-
- age
-
-dignity
-
-
+  age
 ]
 
 patches-own [
@@ -217,7 +213,7 @@ INPUTBOX
 145
 177
 number-of-field-seasons
-75.0
+0.0
 1
 0
 Number
