@@ -3,10 +3,9 @@ breed [dig-houses dig-house]
 
 
 globals [
-  dignity
-  benevolence
-  knowledge
-  age
+
+
+
 ]
 
 patches-own [
@@ -213,7 +212,7 @@ INPUTBOX
 145
 177
 number-of-field-seasons
-0.0
+50.0
 1
 0
 Number
@@ -231,10 +230,7 @@ artifact-distribution
 @#$#@#$#@
 ## WHAT IS IT?
 
-I AM CHANGING THIS PART HERE BECAUSE IT DOES NOT AFFECT THE CODEEEEEEEEEEEEEEEE!
-SO AM I DSR
-Same!
-
+I AM CHANGING THIS PART HERE BECAUSE IT DOES NOT AFFECT THE CODEEEEEEEEEEEEEEEE!!
 
 ## HOW IT WORKS
 
@@ -594,7 +590,7 @@ false
 Polygon -7500403 true true 270 75 225 30 30 225 75 270
 Polygon -7500403 true true 30 75 75 30 270 225 225 270
 @#$#@#$#@
-NetLogo 6.1.1
+NetLogo 6.1.0
 @#$#@#$#@
 @#$#@#$#@
 @#$#@#$#@
